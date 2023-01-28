@@ -1,21 +1,23 @@
 <div align="center">
 <img width="80%" src="https://user-images.githubusercontent.com/59862752/215268566-93f30660-2318-4617-9963-80e3faecd057.PNG"> 
 
-### 👋 Hello Jiwoon World! 👋
-
+### 👋 Hello Jiwoon World! 👋  
+  
 <!--
 **sungjiwoon/sungjiwoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 동덕여대 컴퓨터학과 👯<br>
+🌱 Back-end 공부 중 🌱<br>
+🔭 Java Python C 🔭<br>
+📫 Spring Django Android 📫 <br>
+<br><br>
+💬 nebulaisme@naver.com 💬 <br>
+  
+<!--
+😄 Pronouns: ...
+⚡ Fun fact: ... -->
+
 
 </div>
