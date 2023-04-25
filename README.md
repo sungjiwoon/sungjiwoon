@@ -10,8 +10,8 @@ Here are some ideas to get you started: -->
 
 👯 동덕여대 컴퓨터학과 👯<br>
 🌱 Back-end 공부 중 🌱<br>
-🔭 Java Python C 🔭<br>
-📫 Spring Django Android 📫 <br>
+🔭 Java Javascript Python C 🔭<br>
+📫 NodeJs Spring Django Android 📫 <br>
 <br><br>
 💬 nebulaisme@naver.com 💬 <br>
   
