@@ -8,8 +8,8 @@
 
 Here are some ideas to get you started: -->
 
-👯 동덕여대 컴퓨터학과 👯<br>
-🌱 Back-end 공부 중 🌱<br>
+👯 컴퓨터학과 👯<br>
+🌱 Back-end , Web 공부 중 🌱<br>
 🔭 Java Javascript Python C 🔭<br>
 📫 NodeJs Spring Django Android 📫 <br>
 <br><br>
