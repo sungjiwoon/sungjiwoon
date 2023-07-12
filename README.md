@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 👯 컴퓨터학과 👯<br>
 🌱 Back-end , Web 공부 중 🌱<br>
 🔭 Java Javascript Python C 🔭<br>
-📫 NodeJs Express, Spring, Django, Android 📫 <br>
+📫 Spring boot, NodeJs Express, Django, Android 📫 <br>
 <br><br>
 💬 nebulaisme@naver.com 💬 <br>
   
