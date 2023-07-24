@@ -7,9 +7,6 @@
 **sungjiwoon/sungjiwoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-
-👯 컴퓨터학과 👯<br>
-🌱 Back-end , Web 공부 중 🌱<br>
 <br>   
 <img src="https://img.shields.io/badge/java-f28aa8?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/python-f25c87?style=for-the-badge&logo=python&logoColor=white">
@@ -25,6 +22,8 @@ Here are some ideas to get you started: -->
 <img src="https://img.shields.io/badge/express-68cae8?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/django-49cdf5?style=for-the-badge&logo=django&logoColor=white">
 <br><br>
+👯 컴퓨터학과 👯<br>
+🌱 Back-end , Web 공부 중 🌱<br>
 💬 nebulaisme@naver.com 💬 <br>
   
 <!--
