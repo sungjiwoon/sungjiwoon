@@ -1,7 +1,5 @@
 <div align="center">
-<img width="80%" src="https://user-images.githubusercontent.com/59862752/215268566-93f30660-2318-4617-9963-80e3faecd057.PNG">
-
-### 👋 Hello Jiwoon World! 👋  
+<img width="60%" src="https://user-images.githubusercontent.com/59862752/215268566-93f30660-2318-4617-9963-80e3faecd057.PNG"> 
   
 <!--
 **sungjiwoon/sungjiwoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +20,12 @@ Here are some ideas to get you started: -->
 <img src="https://img.shields.io/badge/express-68cae8?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/django-49cdf5?style=for-the-badge&logo=django&logoColor=white">
 <br><br>
-👯 컴퓨터학과 👯<br>
+
+### 👋 Hello Jiwoon World! 👋 
+<br> 👯 컴퓨터학과 👯<br>
 🌱 Back-end , Web 공부 중 🌱<br>
 💬 nebulaisme@naver.com 💬 <br>
+<br><br>
   
 <!--
 😄 Pronouns: ...
