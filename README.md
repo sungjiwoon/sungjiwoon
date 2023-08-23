@@ -13,17 +13,17 @@ Here are some ideas to get you started: -->
 <br>
 <img src="https://img.shields.io/badge/java-f28aa8?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/python-f25c87?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/c-f54275?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-f26f7f?style=for-the-badge&logo=mysql&logoColor=white">
 <br>
+<!--
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-fc885d?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-f08a71?style=for-the-badge&logo=javascript&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/spring-88d918?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-30b35c?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/express-68cae8?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/django-49cdf5?style=for-the-badge&logo=django&logoColor=white">
+<br> 
+-->
+<img src="https://img.shields.io/badge/spring-E34F26?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-fc885d?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/django-f08a71?style=for-the-badge&logo=django&logoColor=white">
 <br><br><br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwoon1122)](https://solved.ac/jiwoon1122/)
