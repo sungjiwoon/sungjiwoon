@@ -26,9 +26,6 @@ Here are some ideas to get you started: -->
 <img src="https://img.shields.io/badge/django-f08a71?style=for-the-badge&logo=django&logoColor=white">
 <br><br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwoon1122)](https://solved.ac/jiwoon1122/)
-
-<br>
 
 ### 🎡 Hello Jiwoon World! 🎡 
 <br> 👯 컴퓨터학과 👯<br>
