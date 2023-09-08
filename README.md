@@ -30,7 +30,6 @@ Here are some ideas to get you started: -->
 ### 🎡 Hello Jiwoon World! 🎡 
 <br> 👯 컴퓨터학과 👯<br>
 🌱 Back-end , Web 공부 중 🌱<br>
-💬 nebulaisme@naver.com 💬 <br>
 <br><br>
   
 <!--
