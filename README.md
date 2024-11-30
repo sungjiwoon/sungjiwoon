@@ -12,7 +12,6 @@ Here are some ideas to get you started: -->
 
 <br>
 <img src="https://img.shields.io/badge/java-f28aa8?style=for-the-badge&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/python-f25c87?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-f26f7f?style=for-the-badge&logo=mysql&logoColor=white">
 <br>
 <!--
@@ -23,7 +22,6 @@ Here are some ideas to get you started: -->
 -->
 <img src="https://img.shields.io/badge/spring-E34F26?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-fc885d?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/django-f08a71?style=for-the-badge&logo=django&logoColor=white">
 <br><br><br>
 
 
